@@ -1,7 +1,7 @@
 			/***********************************************************************	
-										Guriqbal Singh 
-										  Program #1
-									Due: January 26, 2017
+						Guriqbal Singh 
+		       			        Program #1
+						Due: January 26, 2017
 						This program will classify numbers being either deficient, perfect, 
 						or abundant. It will contain multiple methods in order to keep the 
 						program in an organized manner.
